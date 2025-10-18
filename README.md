@@ -131,7 +131,3 @@ ls -la /mnt/user-data/                             # Check directory permissions
 - **Claude Result Viewing**: `/mnt/user-data/outputs/claude_latest_result.log`
 - **Service Log**: `/mnt/user-data/outputs/.file_monitor.log`
 - **Heartbeat Log**: `/mnt/user-data/outputs/file-monitor-heartbeat.log`
-
-## 📄 License
-
-MIT License - Free to use and modify
